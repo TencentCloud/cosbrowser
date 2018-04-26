@@ -2,6 +2,8 @@
 
 cosbrowser，用户可以可视化、方便地进行数据的上传、下载等操作。
 
+[使用反馈](https://github.com/tencentyun/cosbrowser/issues)
+
 ## 使用环境
 
 Windows 32/64 位系统均可
