@@ -3,6 +3,7 @@
 cosbrowser，用户可以可视化、方便地进行数据的上传、下载等操作。
 
 [使用反馈](https://github.com/tencentyun/cosbrowser/issues)
+[更新日志](https://github.com/tencentyun/cosbrowser/blob/master/changelog.md)
 
 ## 使用环境
 
