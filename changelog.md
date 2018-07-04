@@ -1,6 +1,6 @@
 # cosbrowser 更新日志
 
-[下载最新版](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
+[下载 Windows 最新版](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
 
 ## [v1.1.2](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
 
