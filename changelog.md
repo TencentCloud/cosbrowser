@@ -4,7 +4,7 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.1.3.dmg)
 
-## [v1.1.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+## v1.1.3
 
 * 修复一个特定网络环境的代理问题
 * 修复一个 dns 解析抛异常的问题
