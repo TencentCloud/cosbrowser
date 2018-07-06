@@ -2,7 +2,12 @@
 
 [下载 Windows 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 
-## [v1.1.2](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+## [v1.1.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+
+* 修复一个特定网络环境的代理问题
+* 修复一个 dns 解析抛异常的问题
+
+## v1.1.2
 
 * 上传获取系统默认代理配置
 * 修复带有中文名的文件复制错误
