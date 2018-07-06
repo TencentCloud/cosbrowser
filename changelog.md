@@ -1,8 +1,8 @@
 # cosbrowser 更新日志
 
-[下载 Windows 最新版](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
+[下载 Windows 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 
-## [v1.1.2](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
+## [v1.1.2](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 
 * 上传获取系统默认代理配置
 * 修复带有中文名的文件复制错误
