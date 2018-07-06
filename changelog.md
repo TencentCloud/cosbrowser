@@ -1,6 +1,7 @@
 # cosbrowser 更新日志
 
 [下载 Windows 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.1.3.dmg)
 
 ## [v1.1.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
