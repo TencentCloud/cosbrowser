@@ -15,7 +15,7 @@ Windows 32/64 位系统均可
 ## 下载与安装
 
 下载安装版（依赖 .Net Framework 4.5，下载后双击安装）：
-- [Window 安装版](https://cos5.cloud.tencent.com/cosbrowser/win/cosbrowser-setup-latest.exe)
+- [Window 安装版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 
 ## 使用方法
 
