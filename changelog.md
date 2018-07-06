@@ -4,13 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
-## v1.1.3-win
+## v1.1.3
 * 修复一个特定网络环境的代理问题
 * 修复一个 dns 解析抛异常的问题
-
-## v1.1.3-mac
 * 支持 Mac 版快捷键
-* 修复 cosbrowser 在 Mac 下开启关闭程序的习惯
+* 修复在 Mac 下开启关闭程序的习惯
 * 更改 Mac 下获取更新方式
 * 修复多版本页面中文件夹不在多版本列表中显示问题
 * 修复在 Mac 下对外部字符串复制粘贴无反应问题
