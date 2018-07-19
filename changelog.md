@@ -4,11 +4,6 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
-## v1.1.4
-
-* 优化大批量文件下载
-* 增加证书签名
-
 ## v1.1.3
 
 * 优化设置页面，增加打开本地日志功能
