@@ -4,6 +4,17 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.1.5
+
+* 修复复制小文件也用了分片复制的问题
+* 修复下载中文件件错误
+* 修复上传文件夹，多出一个空的文件问题
+
+## v1.1.4
+
+* 优化大批量文件下载
+* 增加 exe 和 dmg 打包签名
+
 ## v1.1.3
 
 * 优化设置页面，增加打开本地日志功能
