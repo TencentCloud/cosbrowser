@@ -4,6 +4,12 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.1.6
+
+* 修复面包屑链接错误
+* 修复下载多了一层文件夹
+* 修复 macOS 上传文件夹报错
+
 ## v1.1.5
 
 * 修复复制小文件也用了分片复制的问题
