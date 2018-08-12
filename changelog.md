@@ -4,6 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.1.7
+
+* 拖放上传支持文件夹
+* 支持 Windows 拖拽下载
+
 ## v1.1.6
 
 * 修复面包屑链接错误
