@@ -4,6 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## 1.1.8
+
+* 修复下载没用代理的问题
+* 修复Windows 拖拽下载到中文文件夹的错误
+
 ## v1.1.7
 
 * 拖放上传支持文件夹
