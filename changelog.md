@@ -4,6 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.1.9
+
+* 支持文件夹续传，跳过已存在的文件
+* 优化上传列表，增加过滤条件
+
 ## v1.1.8
 
 * 修复下载没用代理的问题
