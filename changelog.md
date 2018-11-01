@@ -4,6 +4,13 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.2.0
+
+* 上传/下载文件支持在本地/远端查看
+* 支持默认下载路径设置
+* 支持分片并发数设置
+* 支持列表显示
+
 ## v1.1.9
 
 * 支持文件夹续传，跳过已存在的文件
