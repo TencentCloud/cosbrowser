@@ -4,6 +4,18 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.0 - 2019.01.16
+
+* 修复一次上传11万个文件报错
+* 支持多张号切换
+* 支持代理设置，优化了网络访问过程
+* 判断到密钥错误、时间不对等错误，停留在登录页
+* 复制链接指定时间
+* 修复退出登录，仍然zai jincheng shangchuan 上传
+* 下载支持状态过滤
+* 增加删除全部上传/下载任务的按钮
+* 支持指定 endpoint，通过 endpoint 能支持到 ipv6 域名访问
+
 ## v1.2.0
 
 * 上传/下载文件支持在本地/远端查看
