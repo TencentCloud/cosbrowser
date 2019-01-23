@@ -4,6 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.1 - 2019.01.23
+
+* 修复更新进度条不动的问题
+* 优化更新逻辑，未登录也可以更新
+
 ## v1.3.0 - 2019.01.16
 
 * 修复一次上传11万个文件报错，测试 100 万个文件可以稳定上传
