@@ -4,6 +4,10 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.3 - 2019.03.18
+
+* 修复上传目录，子目录上传没带 / 结尾问题
+
 ## v1.3.1 - 2019.01.23
 
 * 修复更新进度条不动的问题
