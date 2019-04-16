@@ -4,6 +4,16 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.4 - 2019.04.16
+
+* 新增下载并发支持
+* 新增右键预览图片、视频、音频
+* 新增上传二次确认选项
+* 新增上传计算并添加 x-cos-mets-md5 的 Header
+* 新增是否使用 https 的选项
+* 新增搜索存储桶按钮
+* 新增资源包推广跳转链接
+
 ## v1.3.3 - 2019.03.18
 
 * 修复上传目录，子目录上传没带 / 结尾问题
