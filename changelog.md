@@ -4,6 +4,13 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.5 - 2019.04.19
+
+* 支持邮件显示缩略图
+* 预览图支持显示二维码在手机查看
+* 修复列表点击偏移问题
+* 修复列表点击没选中问题
+
 ## v1.3.4 - 2019.04.16
 
 * 新增下载并发支持
