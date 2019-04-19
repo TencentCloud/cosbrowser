@@ -4,7 +4,7 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
-## v1.3.5 - 2019.04.19
+## v1.3.6 - 2019.04.19
 
 * 支持邮件显示缩略图
 * 预览图支持显示二维码在手机查看
