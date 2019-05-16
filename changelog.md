@@ -4,6 +4,13 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.7 - 2019.05.16
+
+* 优化跳过下载逻辑和错误提示
+* 存储桶详情、文件详情可以选文字
+* 优化配置请求使用代理获取
+* 优化机器时间不对时，不报错自动调正
+
 ## v1.3.6 - 2019.04.19
 
 * 支持右键显示缩略图
