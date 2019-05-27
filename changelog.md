@@ -4,6 +4,11 @@
 
 [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 
+## v1.3.8 - 2019.05.19
+
+* 资源包推广链接修改为右侧底部
+* 优化右键复制链接
+
 ## v1.3.7 - 2019.05.16
 
 * 优化跳过下载逻辑和错误提示
