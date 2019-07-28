@@ -1,8 +1,15 @@
 # cosbrowser 更新日志
 
-[下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+- [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
+- [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
+- [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
+- [Android 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-[下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
+## v1.4.1 - 2019.07.28
+- 下载支持续传
+- 增加崩溃上报
+- 优化复制链接
+- 新建文件夹支持创建多层目录
 
 ## v1.4.0 - 2019.07.09
 - 优化更新逻辑，支持自动更新
