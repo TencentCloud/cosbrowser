@@ -6,6 +6,9 @@
 - [Android 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 ## v1.4.2 - 2019.07.29
+- 修复下载续传 Bug
+
+## v1.4.1 - 2019.07.28
 - 下载支持续传
 - 增加崩溃上报
 - 优化复制链接
