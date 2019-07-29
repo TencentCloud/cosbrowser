@@ -5,7 +5,7 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-## v1.4.1 - 2019.07.28
+## v1.4.2 - 2019.07.29
 - 下载支持续传
 - 增加崩溃上报
 - 优化复制链接
