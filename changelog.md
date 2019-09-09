@@ -3,7 +3,7 @@
 - [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 - [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
-- [Android 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
+- [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 ## v1.4.3 - 2019.09.09
 - 修复视频播放失败
