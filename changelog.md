@@ -5,6 +5,11 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v1.4.3 - 2019.09.09
+- 修复视频播放失败
+- 修复没后缀文件名 Content-Type:false 的 Bug
+- 修复 SNS 存储子文件夹列表空
+
 ## v1.4.2 - 2019.07.29
 - 修复下载续传 Bug
 
