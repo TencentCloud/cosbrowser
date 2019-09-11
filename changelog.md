@@ -5,6 +5,11 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v1.4.4 - 2019.09.11
+- 修复下载错误处理问题
+- 修复文件公有读判断错误
+- 优化复制链接
+
 ## v1.4.3 - 2019.09.09
 - 修复视频播放失败
 - 修复没后缀文件名 Content-Type:false 的 Bug
