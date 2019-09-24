@@ -5,6 +5,16 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v1.4.5 - 2019.09.24
+- 修复双击打开文件报错
+- 修复 macOS 下载任务里打开本地文件夹失败
+- 修复 Linux 双击打开文件失败
+- 修复缩略图来回切换后不可用
+- 优化双击打开的文件，会加入下载任务
+- 优化文件详情里的文件权限显示
+- 优化音乐播放预览页面
+- 优化归档下载错误提示
+
 ## v1.4.4 - 2019.09.11
 - 修复下载错误处理问题
 - 修复文件公有读判断错误
