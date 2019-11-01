@@ -5,17 +5,6 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-## v1.5.0  2019.11.01
-- 支持文件同步
-- 支持深度模糊搜索
-- 优化上传弹窗
-- 新增通过链接上传文件
-- 优化代理设置
-- 支持存储桶设置版本控制、修改 ACL
-- 支持设置文件 ACL、文件存储类型
-- 私有化云存储支持创建存储桶、删除存储桶
-- 修复列表选中错误问题
-
 ## v1.4.5 - 2019.09.24
 - 修复双击打开文件报错
 - 修复 macOS 下载任务里打开本地文件夹失败
