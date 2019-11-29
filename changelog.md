@@ -5,6 +5,14 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v1.5.2 - 2019.11.30
+- 上传强制 md5 或 sha1 内容校验
+- 下载做文件大小的检查
+- 支持下载当前目录
+- 搜索支持前缀搜索
+- macOS 版增加公证认证，适配最新系统安装
+- 修复上传大量文件，列表卡住问题
+
 ## v1.5.1 - 2019.11.04
 
 - 支持文件同步
