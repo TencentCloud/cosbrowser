@@ -5,6 +5,9 @@
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v1.5.3 - 2019.12.03
+- 优化下载大小校验
+
 ## v1.5.2 - 2019.11.30
 - 上传强制 md5 或 sha1 内容校验
 - 下载做文件大小的检查
