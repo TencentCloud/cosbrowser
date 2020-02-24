@@ -6,6 +6,7 @@
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 ## v1.5.3 - 2019.12.03
+PC 1.5.3 下载地址： [Window 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.3.exe) / [Mac OS 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 - 优化下载大小校验
 
 ## v1.5.2 - 2019.11.30
