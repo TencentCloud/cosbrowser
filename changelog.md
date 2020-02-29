@@ -1,12 +1,30 @@
 # cosbrowser 更新日志
 
+最新版本：
 - [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
 - [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
 - [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+1.x.x 历史版本：
+PC 1.5.4 下载地址： [Window 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.3.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
+
+## v2.0.0 - 2020.02.29
+- 全新的界面！
+- 登录界面增加存储桶/访问路径快捷登录入口
+- 历史密钥将记住存储桶/访问路径快捷登录
+- 文件列表的导航增加双击显示
+- 导航可以修改进行跳转目录
+- 高级设置增加账户显示
+- 支持创建和删除存储桶、修改存储桶 ACL
+- 增加右键菜单“下载当前目录”
+- 优化了性能，提升了列表加载速度
+
+
+## v1.5.4 - 2020.02.29
+- 优化更新交互
+
 ## v1.5.3 - 2019.12.03
-PC 1.5.3 下载地址： [Window 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.3.exe) / [Mac OS 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 - 优化下载大小校验
 
 ## v1.5.2 - 2019.11.30
