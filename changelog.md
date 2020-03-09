@@ -8,6 +8,19 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 
+## v2.0.1 - 2020.03.10
+- 重启后恢复上传下载列表
+- 优化宫格视图拖选性能
+- 优化上传续传逻辑
+- 优化崩溃后续传体验
+- 优化统一的错误提示
+- 上传下载支持过滤条件
+- 上传下载支持操作全部
+- 小红点显示未完成数
+- 文件/存储桶详情可复制文字
+- 修复上传选多文件出现多个
+- 修复创建存储桶报错不对
+
 ## v2.0.0 - 2020.02.29
 - 全新的界面！
 - 登录界面增加存储桶/访问路径快捷登录入口
