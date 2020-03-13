@@ -8,8 +8,8 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 
-## v2.0.1 - 2020.03.13
-- 上传下载增加“清除已完成”按钮
+## v2.0.2 - 2020.03.13
+- 上传下载支持清除已完成
 - 修复添加访问列表失败
 - 优化多版本列表
 - 支持忽略 https 证书错误
