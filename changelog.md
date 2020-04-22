@@ -8,6 +8,24 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 
+## v2.1.0 - 2020-04-22
+- 导航增加前进后退功能
+- 同步增加状态区分上传成功/与远端文件一致
+- 增加左侧边栏快速切换存储桶/访问路径
+- 支持多 AZ
+- 支持复制自定义域名链接
+- 清空存储桶、清除文件碎片
+- 支持授予存储桶、文件夹、文件用户权限
+- 版本列表优化，显示当前目录下的版本列表，双击文件夹可进入目录且有返回
+- 版本列表支持清除历史文件
+- 增加统计功能：可查看存储桶当前容量、文件数
+- 删除操作增加提示弹窗
+- 删除失败变更为常驻通知，可查看文件删除失败原因
+- 存储桶列表按时间排序
+- 存储桶列表可筛选地域
+- 传输页增加清除已完成操作
+- 增加崩溃/挂起处理，可主动选择重载/关闭应用
+
 ## v2.0.3 - 2020-03-30
 - 优化下载列表卡顿
 - 优化同步时，文件占用导致一直等待问题
