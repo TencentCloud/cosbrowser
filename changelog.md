@@ -8,6 +8,13 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 
+## v2.1.2 - 2020-04-26
+- 修复快速复制临时链接 Bug
+
+## v2.1.1 - 2020-04-24
+- 修复复制临时链接 Bug
+- 优化了窄屏显示
+
 ## v2.1.0 - 2020-04-22
 - 导航增加前进后退功能
 - 同步增加状态区分上传成功/与远端文件一致
