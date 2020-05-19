@@ -8,6 +8,9 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
 
+## v2.1.3 - 2020-04-27
+- 优化复制链接的兼容问题
+
 ## v2.1.2 - 2020-04-26
 - 修复快速复制临时链接 Bug
 
