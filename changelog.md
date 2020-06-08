@@ -1,12 +1,12 @@
 # cosbrowser 更新日志
 
 下载最新版本：
-- [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-latest.exe)
-- [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest.dmg)
-- [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-latest-linux.zip)
+- [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-latest.exe)
+- [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-latest.dmg)
+- [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/releases/cosbrowser-1.5.3-linux.zip)
+1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
 ## v2.1.3 - 2020-04-27
 - 优化复制链接的兼容问题
