@@ -8,6 +8,18 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.2.0 - 2020-06-16
+- 历史密钥变更为会话管理，支持保存高级设置
+- 基于数据万象服务，优化图片缩略图展示
+- 优化对象复制、移动逻辑
+- 支持快速授权存储桶/文件夹/文件
+- 权限管理增加子用户/协作者下拉列表
+- 修复拖拽下载 BUG
+- 修复快捷键复制粘贴
+
+## v2.1.3 - 2020-04-27
+- 优化复制链接的兼容问题
+
 ## v2.1.3 - 2020-04-27
 - 优化复制链接的兼容问题
 
