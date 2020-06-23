@@ -8,6 +8,15 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.2.2 - 2020-06-19
+- 修复部分用户无法登陆问题。
+  
+## v2.2.1 - 2020-06-19
+- 支持文件在线编辑
+- 支持查看编辑器历史
+- 支持重新打开客户端回到上次的路径
+- 修复 2.2.0 偶现登陆出错
+
 ## v2.2.0 - 2020-06-16
 - 历史密钥变更为会话管理，支持保存高级设置
 - 基于数据万象服务，优化图片缩略图展示
