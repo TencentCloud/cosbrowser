@@ -8,6 +8,23 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.3.0 - 2020-08-06
+- 支持文件夹分享
+- 支持归档存储类型文件取回
+- 上传文件增加元数据
+- 支持管理存储桶、对象标签
+- 支持存储桶按标签搜索
+- 支持在已登录状态下便捷切换至其他账号
+- 支持显示图片的 EXIF 信息
+- 支持查看存储桶已有域名（自定义域名、CDN域名等）
+- 优化了文件列表中拖选时的性能表现
+- 优化部分界面展示
+- 搜索优化：1. 允许搜索状态下重命名文件 2. 前缀搜索可一次匹配多级目录
+
+## v2.2.3 - 2020-07-20
+- 优化复制分享链接弹窗
+- 修复链接文件过小无法上传的 BUG
+
 ## v2.2.2 - 2020-06-19
 - 修复部分用户无法登陆问题。
   
