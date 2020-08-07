@@ -8,6 +8,9 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.3.0 - 2020-08-07
+- 修复上传文件增加元数据 BUG
+
 ## v2.3.0 - 2020-08-06
 - 支持文件夹分享
 - 支持归档存储类型文件取回
