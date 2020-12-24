@@ -8,6 +8,16 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.5.0 - 2020-12-24
+- 支持腾讯云账号登录
+- 支持共享链接登录
+- 支持智能分层存储类型
+- 优化上传、下载列表性能，支持 30 w 文件上传、下载
+- 文件列表右键菜单增加“加载全部文件”功能
+- 支持在上传面板中重命名文件/文件夹
+- 支持显示访问路径的对象数量和存储用量统计
+- 文件夹分享部分地域支持设置权限：只读、读写
+
 ## v2.4.3 - 2020-11-20
 - 支持新建文件
 - 修复查看域名不兼容 V4 域名 BUG
