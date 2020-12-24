@@ -8,6 +8,9 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.5.1 - 2020-12-24
+- 修复 sns 账号登录进入不了文件列表 BUG
+
 ## v2.5.0 - 2020-12-24
 - 支持腾讯云账号登录
 - 支持共享链接登录
