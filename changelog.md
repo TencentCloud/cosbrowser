@@ -8,7 +8,12 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
-## v2.5.2 - 2020-01-05
+## v2.5.3 - 2021-01-28
+- 修复从控制台拉取客户端无法下载文件的 BUG
+- 修复某些子账号无法登陆的 BUG
+- 修复删除文件夹下全部文件时弹出存在同名文件提示
+
+## v2.5.2 - 2021-01-05
 - 修复 centos 操作系统打不开应用的 BUG
 - 修复传输列表显示有误的 BUG
 - 修复表格布局右键菜单选中 BUG
