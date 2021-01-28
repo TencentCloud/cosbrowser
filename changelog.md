@@ -8,6 +8,12 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.5.2 - 2020-01-05
+- 修复 centos 操作系统打不开应用的 BUG
+- 修复传输列表显示有误的 BUG
+- 修复表格布局右键菜单选中 BUG
+- 优化应用内所有请求跟随高级设置里 ssl 及 protocol 变化
+
 ## v2.5.1 - 2020-12-24
 - 修复 sns COS 账号登录进入不了文件列表 BUG
 
