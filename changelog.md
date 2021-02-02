@@ -8,6 +8,10 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.5.4 - 2021-02-02
+- 修复移动到功能触发某些场景导致的问题
+- 修复传输管理弹窗某些情况下下载域名一直加载的问题
+
 ## v2.5.3 - 2021-01-28
 - 修复从控制台拉取客户端无法下载文件的 BUG
 - 修复某些子账号无法登陆的 BUG
