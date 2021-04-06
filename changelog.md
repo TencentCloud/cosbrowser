@@ -8,6 +8,10 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.6.2 - 2021-04-06
+- 修复复制后从存储桶列表切换存储桶无法粘贴的问题
+- 修复初始状态下获取系统语言出错的问题
+
 ## v2.6.1 - 2021-03-25
 - 修复 sns COS 登录存储桶无法拉取文件列表的问题 
 
