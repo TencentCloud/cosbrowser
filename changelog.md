@@ -8,6 +8,14 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.6.4 - 2021-04-24
+- 修复上传文件列表显示有误 BUG
+
+## v2.6.3 - 2021-04-23
+- 修复通用设置中部分选项选择无效的问题 
+- 修复复制粘贴/移动操作后，出现报错，粘贴提示框无法取消的问题
+- 优化登录页SerectId输入动作与高级设置部分输入框的关联问题
+
 ## v2.6.2 - 2021-04-06
 - 修复复制后从存储桶列表切换存储桶无法粘贴的问题
 - 修复初始状态下获取系统语言出错的问题
