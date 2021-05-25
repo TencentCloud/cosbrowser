@@ -8,6 +8,13 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.6.5 - 2021-05-25
+- 修复子账号上传文件至开启了多 AZ 的桶偶现报错
+- 修复同步功能页面当存储桶过多隐藏时无法通过搜索未展示的存储桶来选中隐藏的存储桶
+- 修复共享链接登录中文文件夹时报错
+- 修复文件列表显示报错时列表文案显示为空的问题
+- 修复文件列表下拉菜单悬浮到间隙处会关闭菜单的问题
+
 ## v2.6.4 - 2021-04-24
 - 修复上传文件列表显示有误 BUG
 
