@@ -8,7 +8,13 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
-## v2.6.5 - 2021-06-02
+## v2.7.1 - 2021-06-07
+- 腾讯云账号登录态失效重新登录时，可以续传上次的任务，不对上传/下载任务列表清空。
+- 支持共享链接登录过期被强制退出登录后，重新使用相同账号登录，可以续传上次进行的任务，不对上传/下载任务列表清空。
+- 修复翻页后无法显示缩略图的 BUG。
+- 显示视频缩略图不支持的地域弹出提示通知。
+
+## v2.7.0 - 2021-06-02
 - 支持显示视频缩略图
 - 工具箱新增在线视频转码功能
 - 列出存储桶列表无 getService 权限时支持拉取有标签权限的存储桶列表
