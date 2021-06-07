@@ -8,6 +8,12 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.6.5 - 2021-06-02
+- 支持显示视频缩略图
+- 工具箱新增在线视频转码功能
+- 列出存储桶列表无 getService 权限时支持拉取有标签权限的存储桶列表
+- 修复 Windows 系统下自动更新后安装目录总默认至 C 盘的问题
+
 ## v2.6.5 - 2021-05-25
 - 修复子账号上传文件至开启了多 AZ 的桶偶现报错
 - 修复同步功能页面当存储桶过多隐藏时无法通过搜索未展示的存储桶来选中隐藏的存储桶
