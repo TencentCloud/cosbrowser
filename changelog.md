@@ -8,6 +8,15 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.7.2 - 2021-06-25
+- 增加不支持显示视频缩略图地域文案提示显示时长
+- 修复国际版密钥无法登陆
+- 修复恢复上传/下载任务列表时偶现计数器翻倍
+- 修复网格布局下拉菜单展示文件详情入口 
+- 修复根据有权限的标签无法搜索到存储桶的问题
+- 修复软件设置为英文版，但腾讯云账号登录界面为中文问题
+
+
 ## v2.7.1 - 2021-06-07
 - 腾讯云账号登录态失效重新登录时，可以续传上次的任务，不对上传/下载任务列表清空。
 - 支持共享链接登录过期被强制退出登录后，重新使用相同账号登录，可以续传上次进行的任务，不对上传/下载任务列表清空。
