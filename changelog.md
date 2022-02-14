@@ -8,6 +8,15 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.8.4 - 2021-12-24
+- 修复自动同步隔天不触发的 BUG
+- 
+## v2.8.3 - 2021-11-15
+- 修复正常移动文件夹的覆盖提示 BUG
+- 修复定时任务隔天不触发的 BUG
+- 修复图片预览左右切换后，下载图片不正确的 BUG
+- 修复同步硬盘根目录报空的 BUG
+
 ## v2.8.2 - 2021-08-16
 - 修复国际站账号无法登陆问题
 - 修复登录界面右键菜单粘贴访问路径的 BUG
