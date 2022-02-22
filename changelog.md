@@ -8,6 +8,12 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.8.5 - 2022-2-22
+- 修复 sns cos 登录无法设置 header 头部 BUG
+- 修复设置 header 头部 loading 文案未关闭问题
+- 修复腾讯云账号登录态时间过长失效问题
+- 当开启定时同步时，修复对周日的错误判断导致周日无法进行同步
+
 ## v2.8.4 - 2021-12-24
 - 修复自动同步隔天不触发的 BUG
 
