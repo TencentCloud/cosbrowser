@@ -8,6 +8,10 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
+## v2.8.6 - 2022-3-28
+- 修复归档文件临时恢复之后，仅可对副本进行预览下载等操作，不可修改存储类型
+- 修复 macOS 软件全屏时点击右上角关闭按钮会黑屏问题
+
 ## v2.8.5 - 2022-2-22
 - 修复 sns cos 登录无法设置 header 头部 BUG
 - 修复设置 header 头部 loading 文案未关闭问题
