@@ -8,11 +8,20 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
-## v2.8.6 - 2022-3-28
+## v2.9.0 - 2022-08-30
+  - 支持鼠标中键前进后退
+  - 支持在当前会话中切换不同的存储桶路径，无需退出登录
+  - 支持使用永久密钥登录子账号分享文件夹有效时长延长至 30天 (支持的园区:上海，广州，成都，法兰克福，印尼，新加坡)
+  - 修复了从 MAZ 桶切换至单 AZ 桶上传报错的问题
+
+## v2.8.7 - 2022-07-22
+  - 修复上传操作对asar格式文件的兼容性支持
+
+## v2.8.6 - 2022-03-28
 - 修复归档文件临时恢复之后，仅可对副本进行预览下载等操作，不可修改存储类型
 - 修复 macOS 软件全屏时点击右上角关闭按钮会黑屏问题
 
-## v2.8.5 - 2022-2-22
+## v2.8.5 - 2022-02-22
 - 修复 sns cos 登录无法设置 header 头部 BUG
 - 修复设置 header 头部 loading 文案未关闭问题
 - 修复腾讯云账号登录态时间过长失效问题
