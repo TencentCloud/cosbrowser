@@ -7,8 +7,10 @@
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
+## v2.9.6 - 2022-10-23
+  - 修复定时同步周天不生效的问题
 
-## v2.9.4 - 2022-09-29
+## v2.9.5 - 2022-09-29
   - 优化同步，同步时过滤下office产生的临时文件以及mac的目录隐藏文件
   - fix：文件对比选中存储桶访问路径，对比结果有误的问题
   - fix：定时同步时,特定场景下同步日志不更新的问题
