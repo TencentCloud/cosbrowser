@@ -7,6 +7,12 @@
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
+## v2.10.0 - 2022-10-27
+  - 登录页支持中英文切换
+  - 删除增加常驻通知及报错重试
+  - 优化创建存储桶的部分体验
+  - 优化其他功能的一些体验问题
+ 
 ## v2.9.6 - 2022-10-23
   - 修复定时同步周天不生效的问题
 
