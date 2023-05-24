@@ -7,6 +7,16 @@
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
+
+## v2.11.5 - 2023-05-19
+  - 优化缩略图显示和切换，会记住状态所有桶生效
+  - 文件同步支持后缀过滤
+  - 上传/下载支持显示总进度
+  - 下载域名支持选全球加速
+  - 搜搜默认选中模糊搜索，不区分大小写
+  - 链接上传，取文件名兼容从 Content-Description 字段取文件名
+  - 共享链接登录后，屏蔽上一级目录
+
 ## v2.10.0 - 2022-10-27
   - 登录页支持中英文切换
   - 删除增加常驻通知及报错重试
