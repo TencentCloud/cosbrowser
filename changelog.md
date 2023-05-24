@@ -8,7 +8,7 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
 
-## v2.11.5 - 2023-05-24
+## v2.11.4 - 2023-05-24
   - 优化缩略图显示和切换，会记住状态所有桶生效
   - 文件同步支持后缀过滤
   - 上传/下载支持显示总进度
