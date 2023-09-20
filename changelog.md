@@ -8,6 +8,22 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.3-linux.zip)
 
+## v2.11.12 - 2023-09-20
+  - 新增支持文件夹统计文件数和大小
+  - 修复复制文件错误
+  - 优化上传下载进度显示
+
+## v2.11.11 - 2023-08-28
+  - 新增收藏夹功能，支持收藏存储桶、文件夹、文件。
+  - mac端新增`cmd + h`、`cmd+alt+h`、`cmd + ,` 快捷键。
+
+## v2.11.9 - 2023-08-17
+  - 支持图片全屏
+  - 缩略图支持超大图
+  - 删除文件，增加多版本的提示
+  - 清空历史文件，增加只清空最新版本是 DeleteMarker 的历史版本
+  - 支持极智压缩查看和修改。
+
 ## v2.11.5 - 2023-05-24
   - 优化缩略图显示和切换，会记住状态所有桶生效
   - 文件同步支持后缀过滤
