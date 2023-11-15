@@ -8,7 +8,7 @@
 
 1.x.x 历史版本： [Window 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.3-linux.zip)
 
-## v2.11.12 - 2023-11-15
+## v2.11.13 - 2023-11-15
   - 修复拖选文件错位问题
   - 修复开启极智压缩情况下，下载图片报错问题
 
