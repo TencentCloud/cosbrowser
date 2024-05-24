@@ -6,8 +6,6 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-1.x.x 历史版本： [Window 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cosbrowser.cloud.tencent.com/cosbrowser-1.5.3-linux.zip)
-
 ## v2.11.17 - 2024-05-24
   - 修复一个安全风险
 
