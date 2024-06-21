@@ -6,7 +6,7 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-## v2.11.20 - 2024-06-21
+## v2.11.21 - 2024-06-21
   - 获取用户信息的接口改为 cam/GetUserAppId 接口
 
 ## v2.11.19 - 2024-06-12
