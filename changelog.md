@@ -6,6 +6,9 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v2.11.20 - 2024-06-21
+  - 获取用户信息的接口改为 cam/GetUserAppId 接口
+
 ## v2.11.19 - 2024-06-12
   - 文件同步支持匹配正则表达和忽略正则表达
 
