@@ -7,6 +7,12 @@
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
 ## v2.11.21 - 2024-06-21
+  - 模糊搜索支持多关键字
+  - 调整用户登录信息展示
+  - 批删改为每次请求删 1000 个文件，加快删除
+  - 修复腾讯云登录登录问题
+
+## v2.11.21 - 2024-06-21
   - 获取用户信息的接口改为 cam/GetUserAppId 接口
 
 ## v2.11.19 - 2024-06-12
