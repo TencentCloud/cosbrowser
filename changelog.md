@@ -6,7 +6,7 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-## v2.11.21 - 2024-06-21
+## v2.11.22 - 2024-06-21
   - 模糊搜索支持多关键字
   - 调整用户登录信息展示
   - 批删改为每次请求删 1000 个文件，加快删除
