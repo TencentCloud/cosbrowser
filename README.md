@@ -23,7 +23,8 @@ COSBrowser 工具即 COS 客户端工具，用户可以通过可视化界面方�
 
 #### 软件界面
 
-![COSBrowser PC 端](https://main.qcloudimg.com/raw/6b36f6090281ac7925544ac42bbef55c.png)
+![COSBrowser PC 端](https://github.com/user-attachments/assets/6861ec0d-5e9a-4e6f-ae10-3b6dbb54a815)
+
 
 #### 登录说明
 
