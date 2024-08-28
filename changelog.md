@@ -6,6 +6,9 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v2.11.22 - 2024-08-28
+  - 修复 windows 偶现图标显示不出来的问题
+
 ## v2.11.22 - 2024-06-21
   - 模糊搜索支持多关键字
   - 调整用户登录信息展示
