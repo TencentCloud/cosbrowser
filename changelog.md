@@ -6,7 +6,7 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-## v2.11.25 - 2024-08-28
+## v2.11.25 - 2025-03-02
   - 新增网络测速+诊断工具
 
 ## v2.11.23 - 2024-08-28
