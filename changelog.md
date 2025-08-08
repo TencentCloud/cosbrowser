@@ -6,6 +6,13 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v2.11.27 - 2025-08-08
+  - 调整上传、下载的分块限制和提示优化
+  - 下载文件crc64校验逻辑优化
+  - 分享文件夹兼容特殊字符
+  - 修复了共享链接登录问题
+  - 双击桌面快捷方式弹出界面
+
 ## v2.11.26 - 2025-03-12
   - 下载文件增加 CRC64 校验
   - 支持腾讯云国际站登录
