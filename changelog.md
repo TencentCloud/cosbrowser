@@ -6,6 +6,11 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## v2.11.28 - 2025-08-27
+  - 修复传输总大小计算错误问题
+  - 优化缩略图大图的清晰度
+  - 优化下载文件CRC64校验
+
 ## v2.11.27 - 2025-08-08
   - 调整上传、下载的分块限制和提示优化
   - 下载文件crc64校验逻辑优化
