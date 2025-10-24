@@ -5,6 +5,10 @@
 - [下载 Mac OS 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest.dmg)
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
+  
+## v2.12.2 - 2025-10-24
+  - 修复部分域名下载问题
+  - 优化上传文件头部参数
 
 ## v2.12.2 - 2025-10-24
   - 修复部分域名下载问题
