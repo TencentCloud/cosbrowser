@@ -1,12 +1,83 @@
 # cosbrowser 更新日志
 
 下载最新版本：
-- [下载 Window 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-latest.exe)
-- [下载 Mac OS 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-latest.dmg)
-- [下载 Linux 最新版](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-latest-linux.zip)
+- [下载 Window 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-setup-latest.exe)
+- [下载 Mac OS 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest.dmg)
+- [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
-1.x.x 历史版本： [Window 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-1.5.4.exe) / [Mac OS 1.5.4](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.4.dmg) / [Linux 1.5.3](https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-1.5.3-linux.zip)
+## v2.12.2 - 2025-10-24
+  - 修复部分域名下载问题
+  - 优化上传文件头部参数
+
+## v2.12.1 - 2025-09-11
+  - 兼容严格签名模式
+
+## v2.11.28 - 2025-08-27
+  - 修复传输总大小计算错误问题
+  - 优化缩略图大图的清晰度
+  - 优化下载文件CRC64校验
+
+## v2.11.27 - 2025-08-08
+  - 调整上传、下载的分块限制和提示优化
+  - 下载文件crc64校验逻辑优化
+  - 分享文件夹兼容特殊字符
+  - 修复了共享链接登录问题
+  - 双击桌面快捷方式弹出界面
+
+## v2.11.26 - 2025-03-12
+  - 下载文件增加 CRC64 校验
+  - 支持腾讯云国际站登录
+
+## v2.11.25 - 2025-03-02
+  - 新增网络测速+诊断工具
+
+## v2.11.23 - 2024-08-28
+  - 修复 windows 偶现图标显示不出来的问题
+
+## v2.11.22 - 2024-06-21
+  - 模糊搜索支持多关键字
+  - 调整用户登录信息展示
+  - 批删改为每次请求删 1000 个文件，加快删除
+  - 修复腾讯云登录登录问题
+
+## v2.11.21 - 2024-06-21
+  - 获取用户信息的接口改为 cam/GetUserAppId 接口
+
+## v2.11.19 - 2024-06-12
+  - 文件同步支持匹配正则表达和忽略正则表达
+
+## v2.11.18 - 2024-06-07
+  - 下载文件限定不可超出选中目录
+
+## v2.11.17 - 2024-05-24
+  - 修复一个安全风险
+
+## v2.11.16 - 2024-03-06
+  - 兼容开启智能分层的存储桶
+
+## v2.11.15 - 2024-02-23
+  - 支持自动切换备份域名选项
+
+## v2.11.13 - 2023-11-15
+  - 修复拖选文件错位问题
+  - 修复开启极智压缩情况下，下载图片报错问题
+
+## v2.11.12 - 2023-09-20
+  - 新增支持文件夹统计文件数和大小
+  - 修复复制文件错误
+  - 优化上传下载进度显示
+
+## v2.11.11 - 2023-08-28
+  - 新增收藏夹功能，支持收藏存储桶、文件夹、文件。
+  - mac端新增`cmd + h`、`cmd+alt+h`、`cmd + ,` 快捷键。
+
+## v2.11.9 - 2023-08-17
+  - 支持图片全屏
+  - 缩略图支持超大图
+  - 删除文件，增加多版本的提示
+  - 清空历史文件，增加只清空最新版本是 DeleteMarker 的历史版本
+  - 支持极智压缩查看和修改。
 
 ## v2.11.5 - 2023-05-24
   - 优化缩略图显示和切换，会记住状态所有桶生效
