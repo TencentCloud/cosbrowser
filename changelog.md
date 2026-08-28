@@ -6,6 +6,13 @@
 - [下载 Linux 最新版](https://cosbrowser.cloud.tencent.com/cosbrowser-latest-linux.zip)
 - [Android/iOS 客户端](https://sj.qq.com/myapp/detail.htm?apkName=com.qcloud.cos.client)
 
+## 2.13.1 - 2026-08-28
+  - 支持智能体存储桶
+  - 改进下载超大文件体验
+  - 支持多AZ对象复制
+  - 支持多AZ归档存储
+  - 其他问题修复
+
 ## v2.12.2 - 2025-10-24
   - 修复部分域名下载问题
   - 优化上传文件头部参数
